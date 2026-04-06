@@ -1,0 +1,4 @@
+order_id,order_date,ship_date,delivery_date,country,carrier,status
+1001,2026-04-01,2026-04-02,2026-04-05,SG,DHL,Delivered
+1002,2026-04-02,2026-04-03,,MY,GDEX,In Transit
+1003,2026-04-03,,,US,FedEx,Pending
